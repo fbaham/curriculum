@@ -1,13 +1,12 @@
 # FRANCISCO JAVIER BAHAMONDES CASTRO
-Santiago, Chile | [linkedin.com/in/fbahamondes](https://linkedin.com/in/fbahamondes)
-
-## Desarrollador Senior .NET | Especialista en Integración de Sistemas de Salud (HIS, LIS, PACS)
+Santiago, Chile | [linkedin.com/in/fbahamondes](https://linkedin.com/in/fbahamondes) | +569 5422 1418 | francisco.bahamondes90@gmail.com
+## Desarrollador .NET | Especialista en Integración de Sistemas de Salud (HIS, LIS, PACS)
 
 ### RESUMEN PROFESIONAL
 
-Profesional Senior con más de 9 años de experiencia en el ciclo de vida completo del desarrollo de software. Cuento con una **especialización de alto impacto de 4.5 años en el sector de Informática Médica (eHealth)**, enfocado en la arquitectura, desarrollo e integración de sistemas clínicos críticos.
+Profesional con más de 9 años de experiencia en el ciclo de vida completo del desarrollo de software. Cuento con una **experiencia de 4.5 años en el sector de Informática Médica**, enfocado en la arquitectura, desarrollo e integración de sistemas clínicos críticos.
 
-Poseo experiencia práctica en la interoperabilidad de plataformas **HIS**, **LIS** y **RIS-PACS**, utilizando estándares de la industria como **HL7** y **DICOM**. Además, he liderado integraciones con sistemas de pago clave como **IMED** (bonos) y ERPs como Softland.
+Poseo experiencia práctica en la interoperabilidad de plataformas **HIS**, **LIS** y **RIS-PACS**, utilizando estándares de la industria como **HL7** y **DICOM**. Además, he liderado integraciones con sistemas de pago como **IMED** (bonos) y ERPs como Softland.
 
 Mi stack tecnológico principal es **.NET (C#)**, **Angular** y **SQL Server**, con el que desarrollo APIs REST robustas y soluciones escalables, complementado con experiencia en Java 8, Python y MySQL.
 
@@ -47,7 +46,7 @@ Mi stack tecnológico principal es **.NET (C#)**, **Angular** y **SQL Server**, 
 *Santiago, Chile | Diciembre 2020 - Junio 2025*
 * Desarrollo de módulos para sistema HIS en Java 8 y MySQL.
 * Integración de plataforma POS con IMED y Softland (SOAP) para emisión de bonos y boletas electrónicas.
-* Diseño e implementación de API REST en .NET 8 para integrar LIS con HIS.
+* Diseño e implementación de API REST en .NET 9 para integrar LIS con HIS.
 * Implementación de nueva plataforma HIS con .NET 8, Angular 15 y SQL Server.
 * Integración de sistema de imagenología y PACS (DICOM, HL7) al registro médico.
 * Administración de plataforma PACS como repositorio radiológico central.
